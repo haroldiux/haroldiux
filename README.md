@@ -9,7 +9,7 @@
 
 <br/>
 
-### 👨‍💻 Sobre mí
+### 👨💻 Sobre mí
 
 🔭 **Profesión:** Ingeniero de Sistemas (Provisión Nacional), Especialista en QA Management & Automation, y Docente Investigador en UNITEPC - CIDTMU.<br>
 🌱 **Desarrollo & QA:** Experiencia en desarrollo Full-Stack y metodologías de testing automatizado (Selenium, SOAP UI), diseño de bases de datos relacionales y reingeniería de software.<br>
@@ -21,7 +21,7 @@
 ### 💼 Experiencia Profesional y Académica
 
 🏫 **Gestión Institucional y Docencia (UNITEPC / TECBA):**
-- **Sistemas CIDTMU:** Desarrollo de SISA, SSTEPI, SRIPI, SIRRED, SIGVA, SIGETH, SIGDI (Gestión documental) y Agenda de Investigación Científica.
+- **Sistemas CIDTMU:** Desarrollo de SISA, SSTEPI, SRIPI, SIRRED, SIGVA, SIGETH, SIGDI (Gestión documental, digital e inventario físico) y Agenda de Investigación Científica.
 - **Docencia Universitaria:** Catedrático en áreas de Ingeniería de Software, Programación de Última Generación, Informática Médica y Bases de Datos. 
 
 🛡️ **Ministerio de Defensa de Bolivia (2022 - 2023):**
@@ -66,10 +66,10 @@
 <div align="center">
   <h2>📊 Estadísticas de GitHub</h2>
   <a href="https://github.com/haroldiux">
-    <img src="https://github-readme-stats.vercel.app/api?username=haroldiux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de haroldiux" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=haroldiux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Estadísticas de haroldiux" height="150"/>
   </a>
   <a href="https://github.com/haroldiux">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes principales" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldiux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Lenguajes principales" height="150"/>
   </a>
 </div>
 

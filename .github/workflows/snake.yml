@@ -1,24 +1,16 @@
 name: generate animation
-
 on:
-  # Se ejecuta cada 24 horas
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
-  
-  # Se ejecuta cada vez que haces un push a la rama main o master
   push:
     branches:
     - master
     - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -29,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
