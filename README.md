@@ -1,44 +1,50 @@
 <div align="center">
   <h1>Hola 👋, soy Harold Marco Antonio (haroldiux)</h1>
-  <h3>Ingeniero de Sistemas | Desarrollador de Software | Docente e Investigador</h3>
+  <h3>Ingeniero de Sistemas | QA Automation & Full-Stack Developer | Docente Investigador</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Especialista+en+IA;Investigador+CIDTMU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=QA+Automation+%26+Full-Stack;Especialista+en+IA;Investigador+CIDTMU;Docente+Universitario" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### 👨‍💻 Sobre mí
 
-🔭 **Profesión:** Ingeniero de Sistemas y Docente Investigador en la Universidad Técnica Privada Cosmos (UNITEPC) - CIDTMU.<br>
-🌱 **Desarrollo:** Me especializo en arquitecturas web y móviles, creando soluciones con los mejores estándares.<br>
-🤖 **Innovación con IA:** Integro plataformas y agentes CLI de IA (OpenCode, Cline, Gentle IA, Kimi Code) para optimizar ciclos de desarrollo y automatizar procesos como trading en criptomonedas.<br>
+🔭 **Profesión:** Ingeniero de Sistemas (Provisión Nacional), Especialista en QA Management & Automation, y Docente Investigador en UNITEPC - CIDTMU.<br>
+🌱 **Desarrollo & QA:** Experiencia en desarrollo Full-Stack y metodologías de testing automatizado (Selenium, SOAP UI), diseño de bases de datos relacionales y reingeniería de software.<br>
+🤖 **Innovación con IA:** Desarrollo de arquitecturas y orquestación de agentes IA integrando APIs como DeepSeek, Claude, ChatGPT, Kimi 2.7 y GLM 5.2. Certificado en Desarrollo con IA (MoureDev).<br>
 🎮 **Intereses:** Apasionado del hardware (setup i5-10400F + RTX 5060 Ti), el gaming competitivo y de estrategia, y la animación.
 
 ---
 
-### 💼 Experiencia y Proyectos Destacados
+### 💼 Experiencia Profesional y Académica
 
-🏫 **Gestión e Infraestructura Institucional (UNITEPC):**
-- Desarrollo y mantenimiento de la suite universitaria: **SISA, SSTEPI, SRIPI, SIRRED, SIGVA, SIGETH**, y postulaciones.
-- **Proyecto SIGDI:** Arquitectura de sistema para la trazabilidad documental, optimizando la gestión de la documentación física en paralelo a sus copias digitales.
-- **Investigación:** Diseño de la "Agenda de Actividades de Investigación Científica" para la Dirección de Investigación.
+🏫 **Gestión Institucional y Docencia (UNITEPC / TECBA):**
+- **Sistemas CIDTMU:** Desarrollo de SISA, SSTEPI, SRIPI, SIRRED, SIGVA, SIGETH, SIGDI (Gestión documental) y Agenda de Investigación Científica.
+- **Docencia Universitaria:** Catedrático en áreas de Ingeniería de Software, Programación de Última Generación, Informática Médica y Bases de Datos. 
+
+🛡️ **Ministerio de Defensa de Bolivia (2022 - 2023):**
+- **Ing. en Desarrollo y Redes:** Auditoría de código, reingeniería del Sistema de Pago de Planillas (Informix 4GL) y supervisión del Centro de Procesamiento de Datos (CPD).
 
 🏆 **Liderazgo Tecnológico y Eventos:**
-- **Feria FEXCO:** Diseño del sistema interactivo "Uni-Cosmos: La Batalla de las Facultades" para el CIDTMU.
-- **Innovar-IA UNITEPC:** Organizador y capacitador técnico sobre construcción de MVPs empleando IA.
-- **Uni-Code:** Co-organizador de la 1ra Competencia de Programación Algorítmica Sede Cochabamba (despliegue del juez virtual).
+- **Proyectos de Innovación:** Feria FEXCO ("Uni-Cosmos"), Innovar-IA UNITEPC, y Co-organizador de la competencia algorítmica Uni-Code.
 
 ---
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack & Habilidades</h2>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,html,css,js,ts,git,github,gitlab,mysql,postgres,linux,docker" />
+    <!-- Lenguajes y Frameworks -->
+    <img src="https://skillicons.dev/icons?i=cs,java,php,laravel,vue,react,angular,nodejs,html,css,js,ts" /><br><br>
+    <!-- Bases de Datos, DevOps y Herramientas -->
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,gitlab,linux,docker,wordpress,figma,photoshop" />
   </a>
 </div>
+
+**Bases de Datos adicionales:** Microsoft SQL Server, Informix.<br>
+**Aseguramiento de Calidad (QA):** Testing Manual, Testing de Automatización (Selenium), APIs/Webservices (SOAP UI).
 
 <br>
 
@@ -75,19 +81,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
-
-<!--
-**haroldiux/haroldiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
