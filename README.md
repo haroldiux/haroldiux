@@ -18,10 +18,136 @@
 
 ---
 
-### 💼 Experiencia Profesional y Académica
+### 🚀 Proyectos de Investigación, Desarrollo e Innovación (CIDTMU - UNITEPC)
+
+<p align="justify">
+Desempeño activo como Docente Investigador en el <b>Centro de Investigación, Desarrollo Tecnológico y Multidisciplinario (CIDTMU)</b>, liderando el análisis, modelamiento UX/UI, diseño de bases de datos y despliegue de soluciones corporativas bajo políticas de digitalización institucional.
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ SISA UNITEPC</h3>
+      <p><b>Sistema de Gestión Académica</b></p>
+      <p><b>Rol:</b> Analista de Sistemas y Desarrollador Principal</p>
+      <p>Plataforma integral para planificación académica, gestión de aulas, cruce de horarios, seguimiento digital de sílabos y avance académico.</p>
+      <a href="https://planificacion.unitepc.edu.bo">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-planificacion.unitepc.edu.bo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📑 SIGDI</h3>
+      <p><b>Gestión de Documentos de Investigación</b></p>
+      <p><b>Rol:</b> Docente Investigador y Desarrollador Principal</p>
+      <p>Diseño de plataforma modular ECM bajo RBAC, control de versiones y motor de workflow para digitalizar el ciclo de tesis (reducción del 60% en tiempos).</p>
+      <img src="https://img.shields.io/badge/Estado-Producción_Institucional-green?style=for-the-badge&logo=gitbook&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 SSTEPI</h3>
+      <p><b>Evolución de Pacientes Internados</b></p>
+      <p><b>Rol:</b> Arquitecto de Software y Desarrollador Full-Stack</p>
+      <p>Gestión clínica interactiva en tiempo real para monitoreo de pacientes, administración de recetas e historial médico hospitalario.</p>
+      <a href="https://sstepi.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-sstepi.xpertiaplus.com-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 SRIPI</h3>
+      <p><b>Recolección de Información de Investigación</b></p>
+      <p><b>Rol:</b> Analista de Requerimientos y Desarrollador</p>
+      <p>Herramienta para digitalizar la captura y procesamiento masivo de encuestas de campo con análisis estadístico en tiempo real.</p>
+      <a href="https://sripi.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-sripi.xpertiaplus.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 SIRRED</h3>
+      <p><b>Registros y Facturación Docente</b></p>
+      <p><b>Rol:</b> Desarrollador de Software</p>
+      <p>Automatización de planillas de pago, registro digital de horas dictadas, validación directiva y facturación electrónica.</p>
+      <a href="https://sirred.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-sirred.xpertiaplus.com-F59E0B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏖️ SIGVA</h3>
+      <p><b>Sistema de Gestión de Vacaciones</b></p>
+      <p><b>Rol:</b> Desarrollador Full-Stack</p>
+      <p>Sistema transaccional de RRHH para el flujo y aprobación automática de solicitudes de vacaciones del personal.</p>
+      <a href="https://sigva.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-sigva.xpertiaplus.com-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 SIGETH</h3>
+      <p><b>Sistema de Gestión de Talento Humano</b></p>
+      <p><b>Rol:</b> Desarrollador Principal</p>
+      <p>Administración global de personal, expedientes digitales unificados, control de asistencia diaria y evaluaciones continuas.</p>
+      <a href="https://sigeth.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-sigeth.xpertiaplus.com-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Convocatorias UNITEPC</h3>
+      <p><b>Sistema de Postulaciones Docentes</b></p>
+      <p><b>Rol:</b> Desarrollador e Investigador Principal</p>
+      <p>Automatización de convocatorias docentes, carga de documentos, indexación y cálculo paramétrico automático de ponderaciones.</p>
+      <a href="https://postulacionesunitepc.xpertiaplus.com">
+        <img src="https://img.shields.io/badge/Sitio_Oficial-postulacionesunitepc.xpertiaplus.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Semiología Interactiva</h3>
+      <p><b>Simulador Clínico para Medicina</b></p>
+      <p><b>Rol:</b> Docente Investigador y Diseñador de Software</p>
+      <p>Software interactivo educativo para simulación clínica en Medicina (historial clínico y diagnóstico de signos/síntomas).</p>
+      <a href="https://github.com/haroldiux/SISTEMAENTRENAMIENTOFRONT">
+        <img src="https://img.shields.io/badge/Ver_en_GitHub-Frontend-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💉 Vacunación Antirrábica</h3>
+      <p><b>Gestión de Campañas de Salud Pública</b></p>
+      <p><b>Rol:</b> Desarrollador Principal</p>
+      <p>Aplicación web de salud pública con geolocalización de puntos de vacunación, administración de dosis y registros epidemiológicos.</p>
+      <img src="https://img.shields.io/badge/Estado-Despliegue_Salud-teal?style=for-the-badge&logo=safari&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📦 Repositorios Destacados
+
+<div align="center">
+  <a href="https://github.com/haroldiux/Academico">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=haroldiux&repo=Academico&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/haroldiux/FE-FISIOBLOOM">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=haroldiux&repo=FE-FISIOBLOOM&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <br/>
+  <a href="https://github.com/haroldiux/BE-FISIOBLOOM">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=haroldiux&repo=BE-FISIOBLOOM&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/haroldiux/FRONT-SRIPI">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=haroldiux&repo=FRONT-SRIPI&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+---
+
+### 💼 Experiencia Laboral y Docente
 
 🏫 **Gestión Institucional y Docencia Universitaria (UNITEPC / TECBA):**
-- **Docente Investigador CIDTMU (UNITEPC):** Liderazgo en análisis, modelamiento UX/UI, diseño de base de datos y despliegue de plataformas corporativas: **SISA** (Gestión Académica), **SIGDI** (Documentos e Investigación con RBAC/workflow), **SSTEPI** (Evolución clínica en tiempo real), **SRIPI** (Recolección estadística), **SIRRED** (Facturación y planillas docentes), **SIGVA** (Gestión de vacaciones), **SIGETH** (Talento Humano), **Sistema de Postulaciones**, **Simulador de Semiología** y **Campañas de Vacunación Antirrábica**.
 - **Docente de Pregrado (UNITEPC):** Taller de Ingeniería de Software (SIS-423), Lenguajes de Programación de Última Generación (SIS-326), Programación III, Taller de Simulación e Infraestructura Tecnológica, Informática Médica, Informática Aplicada.
 - **Docente de Cátedra (TECBA):** Programación II (POO y estructuración de software) y Base de Datos I y II (Modelamiento relacional y SQL estructurado).
 - **Instructor Técnico (Infinity Soft / Inst. Schrodinger):** Talleres intensivos de SQL/MySQL, Ofimática avanzada y Desarrollo Web con WordPress.
